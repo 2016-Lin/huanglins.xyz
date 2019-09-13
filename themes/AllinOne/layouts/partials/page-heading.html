@@ -1,0 +1,14 @@
+<div class='post-heading'>
+  {{ if .Params.heading }}
+      {{ .Params.heading }}
+  {{ else }}
+	  {{if eq .Title "Categories"}}
+			目录
+	  {{else if eq .Title "Tags"}}
+			标签
+	  {{else if eq .Title "Series"}}
+	        系列
+	  {{ end }}
+	  
+  {{ end }}
+</div>
