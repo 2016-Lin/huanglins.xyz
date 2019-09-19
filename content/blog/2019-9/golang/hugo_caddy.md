@@ -67,13 +67,13 @@ hugo server
 
 1. 选择根据你的linux版本选择，我这里是64位
 
-2. 选择`http.get`插件，因为我们后面要通过`github`来实现自动的网页更新
+2. 选择`http.git`插件，因为我们后面要通过`github`来实现自动的网页更新
 
 3. 授权方式选择个人
 
  也可以直接通过shell命令下载相对应的caddy版本
  ``` shell
-curl https://getcaddy.com | bash -s personal http.gi
+curl https://getcaddy.com | bash -s personal http.git
  ```
 
 在安装和配置caddy之前，我们需要创建一个非root账户。执行caddy最好使用非root用户，避免使用root用户造成的安全问题。
