@@ -43,7 +43,7 @@ pygmentsuseclasses         = true
 
 [params]
   #faviconfile              = "img/zheng.png"               # from static/
-  avatar                   = "img/profile.jpg"             # path to image in static dir e.g img/avatar.png 
+  avatar                   = "img/hl.jpg"             # path to image in static dir e.g img/avatar.png 
   author                   = "huanglins"
   description              = ["热爱技术","热爱生活","面向未来" ]   
   #welcome_head             = "你好，欢迎"
