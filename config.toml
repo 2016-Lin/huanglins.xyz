@@ -34,14 +34,8 @@ pygmentsuseclasses         = true
     url                    = "blog/"  
 
   [[menu.main]]
-    name                   = "记录"
-    weight                 = -110
-    identifier             = "moment"
-    url                    = "moment/" 
-
-  [[menu.main]]
     name                   = "关于"
-    weight                 = -100
+    weight                 = -110
     identifier             = "about"
     url                    = "about/"  
 
