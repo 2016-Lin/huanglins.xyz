@@ -45,7 +45,7 @@ pygmentsuseclasses         = true
   #faviconfile              = "img/zheng.png"               # from static/
   avatar                   = "img/profile.jpg"             # path to image in static dir e.g img/avatar.png 
   author                   = "huanglins"
-  description              = ["做我自己", "热爱这个美好的世界。", "做正确的事，做一个更好的人。"]   
+  description              = ["热爱技术","热爱生活","面向未来" ]   
   #welcome_head             = "你好，欢迎"
   #welcome_word             = "~ No Day But Today ~"
 
