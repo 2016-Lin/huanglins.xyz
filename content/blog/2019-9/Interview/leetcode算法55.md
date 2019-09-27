@@ -1,6 +1,6 @@
 ---
 title: "Leetcode算法 55.跳跃游戏"
-date: 2019-09-27T17:49:50+08:00
+date: 2019-09-26T17:49:50+08:00
 draft: false
 toc: true
 categories: ["技术"]
