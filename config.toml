@@ -39,6 +39,12 @@ pygmentsuseclasses         = true
     identifier             = "about"
     url                    = "about/"  
 
+  [[menu.main]]
+    name                   = "golang常用库"
+	weight                 = -100
+	identifier             = "tool"
+	url                    = "tool/"
+
  
 
 [params]
