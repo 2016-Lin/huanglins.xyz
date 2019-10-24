@@ -11,7 +11,7 @@ summaryLength              = 200
 Paginate                   = 3
 
 theme                      = "AllinOne"
-title                      = "huanglins blog"
+title                      = "我的学习测试"
 
 pygmentsuseclasses         = true
 
