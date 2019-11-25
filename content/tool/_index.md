@@ -4,6 +4,12 @@ draft = false
 title = "golang常用工具"
 +++
 
+#### 下面有人归纳了golang常用的库，可以点击查看
+
+ - **中文版 [awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn)**
+
+ - **英文版 [awesome-go](https://github.com/avelino/awesome-go)** 
+
 **数据库**
 
 - mysql: [github.com/go-sql-driver/mysql](https://github.com/go-sql-driver/mysql)
