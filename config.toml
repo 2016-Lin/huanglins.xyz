@@ -1,4 +1,4 @@
-baseURL                   = "https://huanglins.xyz"
+baseURL                   = "https://huanglins.cn"
 builddrafts                = false
 languageCode               = "zh-cn"
 canonifyurls               = true
