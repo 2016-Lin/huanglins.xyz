@@ -1,6 +1,6 @@
-baseURL = "https://huanglins.cn"
-languageCode = "zn-cn"
-title = "huanglins的个人博客"
+baseURL = "https://example.com"
+languageCode = "en-us"
+title = "LeaveIt"
 theme = "LeaveIt"
 
 paginate = 12
@@ -25,31 +25,25 @@ preserveTaxonomyNames = true
     weight = 1
 
   [[menu.main]]
-    name = "分类"
+    name = "Categories"
     url = "/categories/"
     weight = 2
 
   [[menu.main]]
-    name = "标签"
+    name = "Tags"
     url = "/tags/"
     weight = 3
 
   [[menu.main]]
-    name = "golang常用库"
-	url = "/tool/"
-	weight = 4
-
-  [[menu.main]]
-    name = "关于我"
+    name = "About"
     url = "/about/"
-    weight = 5
-  
+    weight = 4
 
 [params]
-    since = 2019
-    author = "huanglins"                           # Author's name
-    avatar = "/images/me/avatar.jpg"           # Author's avatar
-    subtitle = "科技永无止境。"         # Subtitle
+    since = 2011
+    author = "Covey.Liu"                           # Author's name
+    avatar = "/images/me/avatar.jpeg"           # Author's avatar
+    subtitle = "我会更好，因为我没有停止"         # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
 
@@ -58,12 +52,19 @@ preserveTaxonomyNames = true
     description = "" # site description
     keywords = "" # site keywords
 
-    beian = "蜀ICP备19030879号-2"
+    beian = ""
     baiduAnalytics = ""
 
     license= '本文采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可'
 
 [params.social]
-    GitHub = "https://github.com/2016-Lin"
-    Email   = "huanglins@foxmail.com"
+    GitHub = "xxoo"
+    Twitter = "xxoo"
+    Email   = "xxoo"
+    Instagram = "xxoo"
+    Wechat = "/images/me/wechat.png"  # Wechat QRcode image
+    Facebook = "xxoo"
+    Telegram = "xxoo"
+    Dribbble = "xxoo"
+    Medium = "xxoo"
 
