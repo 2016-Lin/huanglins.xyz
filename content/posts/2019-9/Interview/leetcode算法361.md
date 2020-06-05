@@ -3,7 +3,7 @@ title: "Leetcode算法 361.轰炸敌人"
 date: 2019-09-20T17:49:50+08:00
 draft: false
 toc: true
-categories: ["技术"]
+categories: ["Leetcode算法"]
 series: ["Leetcode算法"]
 tags: ["go","面试","算法"]
 toc: true

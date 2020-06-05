@@ -3,7 +3,7 @@ title: "Leetcode算法 28.实现 strStr()"
 date: 2019-11-12T21:30:50+08:00
 draft: false
 toc: true
-categories: ["技术"]
+categories: ["Leetcode算法"]
 series: ["Leetcode算法"]
 tags: ["go","面试","算法"]
 toc: true

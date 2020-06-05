@@ -3,7 +3,7 @@ title: "Leetcode算法 31.下一个排列"
 date: 2019-11-21T13:10:50+08:00
 draft: false
 toc: true
-categories: ["技术"]
+categories: ["Leetcode算法"]
 series: ["Leetcode算法"]
 tags: ["go","面试","算法"]
 toc: true

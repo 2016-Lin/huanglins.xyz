@@ -3,7 +3,7 @@ title: "Leetcode算法 17.电话号码的字母组合"
 date: 2019-10-14T11:30:50+08:00
 draft: false
 toc: true
-categories: ["技术"]
+categories: ["Leetcode算法"]
 series: ["Leetcode算法"]
 tags: ["go","面试","算法"]
 toc: true

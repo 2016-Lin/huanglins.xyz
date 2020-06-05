@@ -3,7 +3,7 @@ title: "Leetcode算法 123. 买卖股票的最佳时机Ⅲ"
 date: 2020-03-13T11:10:50+08:00
 draft: false
 toc: true
-categories: ["技术"]
+categories: ["Leetcode算法"]
 series: ["Leetcode算法"]
 tags: ["go","面试","算法","动态规划"]
 toc: true

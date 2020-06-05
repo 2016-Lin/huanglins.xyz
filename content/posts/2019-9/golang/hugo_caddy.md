@@ -3,7 +3,7 @@ title: "Hugo和caddy github webhook 实现网站的自动更新"
 date: 2019-09-11T22:00:05+08:00
 draft: false
 tags: ["hugo","caddy","go"]
-categories: [ "技术" ]
+categories: [ "golang 软件" ]
 series: ["hugo和caddy"]
 img: "images/blog/2019/website.png"
 toc: true

@@ -3,7 +3,7 @@ title: "select,poll,epoll的区别和详解"
 date: 2019-09-14T17:49:50+08:00
 draft: false
 toc: true
-categories: ["技术"]
+categories: ["操作系统"]
 series: ["操作系统"]
 tags: ["操作系统","面试"]
 toc: false

@@ -3,7 +3,7 @@ title: "Leetcode算法 30.串联所有单词的子串"
 date: 2019-11-19T20:30:50+08:00
 draft: false
 toc: true
-categories: ["技术"]
+categories: ["Leetcode算法"]
 series: ["Leetcode算法"]
 tags: ["go","面试","算法"]
 toc: true

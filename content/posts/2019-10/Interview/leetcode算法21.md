@@ -3,7 +3,7 @@ title: "Leetcode算法 21.合并两个有序链表"
 date: 2019-10-28T12:30:50+08:00
 draft: false
 toc: true
-categories: ["技术"]
+categories: ["Leetcode算法"]
 series: ["Leetcode算法"]
 tags: ["go","面试","算法"]
 toc: true
