@@ -1,9 +1,9 @@
 ---
-title: "kubeadm按照单master kubernetes集群"
+title: "kubeadm安装单master kubernetes集群"
 date: 2020-08-01T17:00:05+08:00
 draft: false
 tags: ["云原生","kubernetes","go"]
-categories: [ "kubernetes" ]
+categories: [ "kubernetes教程" ]
 series: ["kubernets教程"]
 toc: true
 ---
