@@ -1,6 +1,6 @@
 baseURL = "https://huanglins.cn"
 languageCode = "zn-cn"
-title = "huanglins的个人博客"
+title = "happlins blog"
 theme = "LeaveIt"
 
 paginate = 12
@@ -52,9 +52,9 @@ preserveTaxonomyNames = true
 
 [params]
     since = 2019
-    author = "huanglins"                           # Author's name
+    author = "happlins"                           # Author's name
     avatar = "/images/me/avatar.jpg"           # Author's avatar
-    subtitle = "科技永无止境。"         # Subtitle
+    subtitle = "保持兴趣，持续学习。"         # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
 
@@ -69,6 +69,6 @@ preserveTaxonomyNames = true
     license= '本文采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可'
 
 [params.social]
-    GitHub = "2016-huanglins"
-    Email   = "huanglins@foxmail.com"
+    GitHub = "happlins"
+    Email   = "happlins@foxmail.com"
 
